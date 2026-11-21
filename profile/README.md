@@ -5,7 +5,6 @@
   <p>Agents that work in the systems you already run, follow your approvals and keep your data in your environment.</p>
   <p>
     <a href="https://nalarx.com">Website</a> ·
-    <a href="https://nalarx.com/blog">Journal</a> ·
     <a href="https://nalarx.com/beta">Book a demo</a>
   </p>
 </div>
